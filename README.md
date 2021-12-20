@@ -55,5 +55,16 @@ INSERT INTO cancun (lugar, tipo) VALUES ('Cenote dos ojos', 'playa')
 | Azure Blob Storage       | 99,90%  |
 | Total                    | 99,685% |
 
+### Créditos
+Construido con esfurezo en un fin de semana por:
+
+Atziry Denisse González              
+César Augusto Flores                   
+Jorge Pérez Sánchez                    
+Oscar Zambrano                           
+Osiel Alejandro Rubio                  
+
+​
+
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
