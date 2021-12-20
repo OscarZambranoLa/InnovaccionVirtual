@@ -5,6 +5,11 @@
 Encontrar un destino para vacacionar que se adapte a nuestro estilo de vida, presupuesto y gustos personales.​
 
 
+## ¿Cómo usamos Azure?
+
+![alt text](https://raw.githubusercontent.com/OscarZambranoLa/InnovaccionVirtual/main/Img/Pink%20Gradient%20Blog%20Banner%20.png)
+
+
 ## Tecnologías a utlizar
 - Azure Bot Service​
 - Azure SQL Database​
