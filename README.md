@@ -7,7 +7,7 @@ Encontrar un destino para vacacionar que se adapte a nuestro estilo de vida, pre
 
 ## ¿Cómo usamos Azure?
 
-![alt text](https://raw.githubusercontent.com/OscarZambranoLa/InnovaccionVirtual/main/Img/Pink%20Gradient%20Blog%20Banner%20.png)
+![alt text](https://raw.githubusercontent.com/OscarZambranoLa/InnovaccionVirtual/main/Img/Usuario%20(1080%20x%20700%20px)%20(1080%20x%20500%20px)%20(1).png)
 
 
 ## Tecnologías a utlizar
