@@ -22,6 +22,8 @@ CREATE TABLE cancun (id INT PRIMARY KEY IDENTITY (1,1), lugar VARCHAR(100), tipo
 
 INSERT INTO cancun (lugar, tipo) VALUES ('Cenote dos ojos', 'playa')
 
+ALTER TABLE cancun ADD imagenBlobId VARCHAR(120)
+
 
 ```
 ## TCO
@@ -56,7 +58,7 @@ INSERT INTO cancun (lugar, tipo) VALUES ('Cenote dos ojos', 'playa')
 | Total                    | 99,685% |
 
 ### Créditos
-Construido con esfurezo en un fin de semana por:
+Construido con esfuerzo en un fin de semana por:
 
 Atziry Denisse González              
 César Augusto Flores                   
