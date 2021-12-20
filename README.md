@@ -43,6 +43,17 @@ INSERT INTO cancun (lugar, tipo) VALUES ('Cenote dos ojos', 'playa')
 |                                |             |                  | Total                                                                                                                                                                                                                                                                                                                                                                       | $4,560.83                          | $0.00                  |
 
 
+## Nivel de acuerdo de sevicio
+
+| Servicio                 | SLA     |
+|--------------------------|---------|
+| Azure Bot Service        | 99,90%  |
+| Azure DDoS Protection    | 99,99%  |
+| Azure Kubernetes Service | 99,95%  |
+| App Service              | 99,95%  |
+| Azure SQL Database       | 99,995% |
+| Azure Blob Storage       | 99,90%  |
+| Total                    | 99,685% |
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
