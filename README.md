@@ -16,9 +16,9 @@ Encontrar un destino para vacacionar que se adapte a nuestro estilo de vida, pre
 - Azure App Service​
 - Azure DDOS Protection
 
+## [Puedes ver imagenes de nuestro desarrollo aquí]( https://github.com/OscarZambranoLa/InnovaccionVirtual/blob/main/Development-Images.md)
 
-
-## Comandos a usar en Azure
+## Ejemplos de comandos a usar en Azure
 
 ```sql
 CREATE DATABASE estados
