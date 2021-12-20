@@ -1,6 +1,6 @@
 # Recomendador de viajes
 
-![alt text](https://raw.githubusercontent.com/OscarZambranoLa/InnovaccionVirtual/main/Img/Pink%20Gradient%20Blog%20Banner%20.png
+![alt text](https://raw.githubusercontent.com/OscarZambranoLa/InnovaccionVirtual/main/Img/Pink%20Gradient%20Blog%20Banner%20.png)
 
 Encontrar un destino para vacacionar que se adapte a nuestro estilo de vida, presupuesto y gustos personales.​
 
