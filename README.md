@@ -45,6 +45,15 @@ ALTER TABLE cancun ADD imagenBlobId VARCHAR(120)
 |                                |             |                  | Total                                                                                                                                                                                                                                                                                                                                                                       | $4,560.83                          | $0.00                  |
 
 
+|Categoría|Costo
+|---|----|
+|Compute|USD 4,162.80|
+|Data Center|USD 0.00|
+|Networking|USD 0.12|
+|Storage|USD 28,438.48|
+|IT Labor|USD 0.00|
+|**Total**|**USD 32,601.00***|
+
 ## Nivel de acuerdo de sevicio
 
 | Servicio                 | SLA     |
