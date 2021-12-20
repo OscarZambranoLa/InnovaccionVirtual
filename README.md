@@ -31,6 +31,9 @@ ALTER TABLE cancun ADD imagenBlobId VARCHAR(120)
 
 
 ```
+
+
+
 ## TCO
 
 
@@ -70,6 +73,8 @@ ALTER TABLE cancun ADD imagenBlobId VARCHAR(120)
 | Azure SQL Database       | 99,995% |
 | Azure Blob Storage       | 99,90%  |
 | Total                    | 99,685% |
+
+***1682 minutos/ 28.032 horas/1.168 días máximos que nuestra aplicación podría no estar disponible
 
 ### Créditos
 Construido con esfuerzo en un fin de semana por:
