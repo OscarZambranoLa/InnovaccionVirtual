@@ -22,11 +22,7 @@ INSERT INTO cancun (lugar, tipo) VALUES ('Cenote dos ojos', 'playa')
 
 
 ```
-
-
-## Licencia
-[MIT](https://choosealicense.com/licenses/mit/)
-
+## TCO
 
 
 | Service type                   | Custom name | Region           | Description                                                                                                                                                                                                                                                                                                                                                                 | Estimated monthly cost             | Estimated upfront cost |
@@ -43,3 +39,8 @@ INSERT INTO cancun (lugar, tipo) VALUES ('Cenote dos ojos', 'playa')
 |                                |             |                  | Billing Account                                                                                                                                                                                                                                                                                                                                                             |                                    |                        |
 |                                |             |                  | Billing Profile                                                                                                                                                                                                                                                                                                                                                             |                                    |                        |
 |                                |             |                  | Total                                                                                                                                                                                                                                                                                                                                                                       | $4,560.83                          | $0.00                  |
+
+
+
+## Licencia
+[MIT](https://choosealicense.com/licenses/mit/)
